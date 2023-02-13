@@ -34,7 +34,7 @@ En esta sección se incluirá el código fuente completo de la aplicación, un v
 
   
 
-*   Código Fuente: [Github](https://github.com/luisguzmanms/APIapp)
+*   Código Fuente: [Github](https://rebrand.ly/APIappGIT)
 *   Demostración: [Video](https://rebrand.ly/APIvideo)
 *   Instalador APK: [Descargar](https://rebrand.ly/APIappAPK)
 
