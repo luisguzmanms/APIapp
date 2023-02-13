@@ -35,8 +35,8 @@ En esta sección se incluirá el código fuente completo de la aplicación, un v
   
 
 *   Código Fuente: [Github](https://github.com/luisguzmanms/APIapp)
-*   Demostración: [Video](https://rebrand.ly/CRUDvideo)
-*   Instalador: [Descargar](https://rebrand.ly/CRUDapk)
+*   Demostración: [Video](https://rebrand.ly/APIvideo)
+*   Instalador APK: [Descargar](https://rebrand.ly/APIappAPK)
 
   
 
